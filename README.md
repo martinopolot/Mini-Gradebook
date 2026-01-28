@@ -5,8 +5,6 @@
 - Concepts covered:
   - Objects, Arrays, for loops, if statements
 
-Concepts covered: Objects, Arrays, for loops, if statements
-
 ## Requirements
 
 1. Compute each student’s average
@@ -35,3 +33,10 @@ Concepts covered: Objects, Arrays, for loops, if statements
 - otherwise status is "FAIL"
 
 ---
+
+## Then print a summary:
+
+- Total number of students
+- Number of PASS vs FAIL
+- Top student (highest average) + average
+- Lowest student (lowest average) + average
